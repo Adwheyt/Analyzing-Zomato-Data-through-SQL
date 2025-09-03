@@ -143,5 +143,5 @@ Zomato-Data-Analytics-Project/
 
 ---
 
-> 👨‍💻 Created by Arjun Karalkar
+> 👨‍💻 Created by Aditya Bodha
 
